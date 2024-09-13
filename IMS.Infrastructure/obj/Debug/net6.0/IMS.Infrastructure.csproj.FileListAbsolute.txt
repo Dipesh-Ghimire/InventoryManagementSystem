@@ -1,0 +1,70 @@
+D:\dotnetprog\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.deps.json
+D:\dotnetprog\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.dll
+D:\dotnetprog\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.pdb
+D:\dotnetprog\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.csproj.AssemblyReference.cache
+D:\dotnetprog\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetprog\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.AssemblyInfoInputs.cache
+D:\dotnetprog\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.AssemblyInfo.cs
+D:\dotnetprog\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\dotnetprog\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.dll
+D:\dotnetprog\IMS\IMS.Infrastructure\obj\Debug\net6.0\refint\IMS.Infrastructure.dll
+D:\dotnetprog\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.pdb
+D:\dotnetprog\IMS\IMS.Infrastructure\obj\Debug\net6.0\ref\IMS.Infrastructure.dll
+D:\dotnetprog\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Models.dll
+D:\dotnetprog\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Models.pdb
+D:\dotnetprog\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.csproj.CopyComplete
+D:\dotnetprog\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.runtimeconfig.json
+D:\dotnetprog\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.genruntimeconfig.cache
+D:\dotnetprog\TestIMS\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.deps.json
+D:\dotnetprog\TestIMS\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.runtimeconfig.json
+D:\dotnetprog\TestIMS\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.dll
+D:\dotnetprog\TestIMS\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.pdb
+D:\dotnetprog\TestIMS\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Models.dll
+D:\dotnetprog\TestIMS\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Models.pdb
+D:\dotnetprog\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.csproj.AssemblyReference.cache
+D:\dotnetprog\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetprog\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.AssemblyInfoInputs.cache
+D:\dotnetprog\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.AssemblyInfo.cs
+D:\dotnetprog\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\dotnetprog\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.dll
+D:\dotnetprog\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\refint\IMS.Infrastructure.dll
+D:\dotnetprog\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.pdb
+D:\dotnetprog\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.genruntimeconfig.cache
+D:\dotnetprog\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\ref\IMS.Infrastructure.dll
+D:\dotnetprog\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.sourcelink.json
+D:\dotnetprog\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infr.A6A27735.Up2Date
+C:\Users\Apil Adhikari\Desktop\github\TestIMS\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.deps.json
+C:\Users\Apil Adhikari\Desktop\github\TestIMS\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.runtimeconfig.json
+C:\Users\Apil Adhikari\Desktop\github\TestIMS\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.dll
+C:\Users\Apil Adhikari\Desktop\github\TestIMS\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.pdb
+C:\Users\Apil Adhikari\Desktop\github\TestIMS\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Models.dll
+C:\Users\Apil Adhikari\Desktop\github\TestIMS\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Models.pdb
+C:\Users\Apil Adhikari\Desktop\github\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Apil Adhikari\Desktop\github\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apil Adhikari\Desktop\github\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Apil Adhikari\Desktop\github\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.AssemblyInfo.cs
+C:\Users\Apil Adhikari\Desktop\github\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Apil Adhikari\Desktop\github\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.sourcelink.json
+C:\Users\Apil Adhikari\Desktop\github\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infr.A6A27735.Up2Date
+C:\Users\Apil Adhikari\Desktop\github\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.dll
+C:\Users\Apil Adhikari\Desktop\github\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\refint\IMS.Infrastructure.dll
+C:\Users\Apil Adhikari\Desktop\github\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.pdb
+C:\Users\Apil Adhikari\Desktop\github\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.genruntimeconfig.cache
+C:\Users\Apil Adhikari\Desktop\github\TestIMS\IMS\IMS.Infrastructure\obj\Debug\net6.0\ref\IMS.Infrastructure.dll
+D:\New folder\InventoryManagementSystem\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.deps.json
+D:\New folder\InventoryManagementSystem\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.runtimeconfig.json
+D:\New folder\InventoryManagementSystem\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.dll
+D:\New folder\InventoryManagementSystem\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Infrastructure.pdb
+D:\New folder\InventoryManagementSystem\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Models.dll
+D:\New folder\InventoryManagementSystem\IMS\IMS.Infrastructure\bin\Debug\net6.0\IMS.Models.pdb
+D:\New folder\InventoryManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.csproj.AssemblyReference.cache
+D:\New folder\InventoryManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\InventoryManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.AssemblyInfoInputs.cache
+D:\New folder\InventoryManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.AssemblyInfo.cs
+D:\New folder\InventoryManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\New folder\InventoryManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infr.A6A27735.Up2Date
+D:\New folder\InventoryManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.dll
+D:\New folder\InventoryManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net6.0\refint\IMS.Infrastructure.dll
+D:\New folder\InventoryManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.pdb
+D:\New folder\InventoryManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net6.0\IMS.Infrastructure.genruntimeconfig.cache
+D:\New folder\InventoryManagementSystem\IMS\IMS.Infrastructure\obj\Debug\net6.0\ref\IMS.Infrastructure.dll
